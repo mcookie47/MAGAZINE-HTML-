@@ -169,16 +169,7 @@ hr {
   .hero-title {
     font-size: 6rem;
   }
-  .hero-subtitle {
-    font-size: 1.8rem;
-  }
-  .author {
-    font-size: 1.8rem;
-  }
-  .quote {
-    font-size: 1.8rem;
-  }
-  .list-title {
+  .hero-subtitle, .author, .quote, .list-title {
     font-size: 1.8rem;
   }
   .social {
