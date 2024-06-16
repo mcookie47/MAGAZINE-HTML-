@@ -164,3 +164,27 @@ hr {
     grid-template-columns: 1fr;
   }
 }
+
+@media only screen and (max-width: 550px) {
+  .hero-title {
+    font-size: 6rem;
+  }
+  .hero-subtitle {
+    font-size: 1.8rem;
+  }
+  .author {
+    font-size: 1.8rem;
+  }
+  .quote {
+    font-size: 1.8rem;
+  }
+  .list-title {
+    font-size: 1.8rem;
+  }
+  .social {
+    font-size: 2rem;
+  }
+  .text {
+    font-size: 1.6rem;
+  }
+}
